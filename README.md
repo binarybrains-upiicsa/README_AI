@@ -13,5 +13,12 @@ Si tienes una idea para un nuevo proyecto, ¡también puedes proponérnosla! Est
 | **Binary Brains Chatbot 🤖** | [Ver repositorio](https://github.com/binarybrains-upiicsa/bb_chatbot_rag) |
 
 
-![6C1A74A3-4A60-4343-A361-63675EC0B32F](https://github.com/user-attachments/assets/a8c74e34-a410-42c4-819a-8931e885d7b2)
+## Conoce a "Binary"!  🧠  🔵
+
+**Binary** nos acompañará siendo nuestro *Chatbot* y *Agente* en nuestra comunidad 🤖
+
+<img src="https://github.com/user-attachments/assets/a8c74e34-a410-42c4-819a-8931e885d7b2" width="500" height="500"></img>
+
+
+*"Binary" es creado gracias al modelo GPT4o*
 
