@@ -15,9 +15,8 @@ Si tienes una idea para un nuevo proyecto, ¡también puedes proponérnosla! Est
 
 ## Conoce nuestra comunidad de Hugging Face ! 🤗
 
-<img width="800" height="320" alt="image" src="https://github.com/user-attachments/assets/66594622-d9c4-4523-a178-3cb6356dd591" />
-
 [Únete a la Comunidad 🤗💙](https://huggingface.co/BinaryBrainsAI)  
+<img width="800" height="320" alt="image" src="https://github.com/user-attachments/assets/66594622-d9c4-4523-a178-3cb6356dd591" />
 
 ---
 ## Conoce a "Binary"!  🧠  🔵
