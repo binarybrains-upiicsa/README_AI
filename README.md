@@ -10,7 +10,7 @@ Si tienes una idea para un nuevo proyecto, ¡también puedes proponérnosla! Est
 | Descripción | Enlace |
 |-------------|:------:|
 | **Guía de Python 🐍** | [Ver repositorio](https://github.com/binarybrains-upiicsa/Python-Guide) |
-| **Comunidad de Hugging Face de Binary Brains 🤗** | [Ver repositorio](https://huggingface.co/BinaryBrainsAI) |
+| **Comunidad de Hugging Face de Binary Brains 🤗 (Únete 👀)** | [Ver repositorio](https://huggingface.co/BinaryBrainsAI) |
 | **Binary Brains Chatbot 🤖** | [Ver repositorio](https://github.com/binarybrains-upiicsa/binary_chatbot) |
 
 
